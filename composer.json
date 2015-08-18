@@ -1,21 +1,21 @@
 {
-    "name": "ahnames/hipanel-theme-adminlte",
+    "name": "advancedhosters/hipanel-theme-adminlte",
     "type": "yii2-extension",
-    "description": "AHnames AdminLte Theme for HiPanel",
+    "description": "AdvancedHosters AdminLte Theme for HiPanel",
     "keywords": [
-        "ahnames",
+        "advancedhosters",
         "adminlte",
         "theme",
         "hipanel",
         "plugin"
     ],
-    "homepage": "https://github.com/ahnames/hipanel-theme-adminlte",
+    "homepage": "https://github.com/advancedhosters/hipanel-theme-adminlte",
     "license": "No license",
     "support": {
-        "email": "support@ahnames.com",
-        "source": "https://github.com/ahnames/hipanel-theme-adminlte",
-        "issues": "https://github.com/ahnames/hipanel-theme-adminlte/issues",
-        "wiki": "https://github.com/ahnames/hipanel-theme-adminlte/wiki"
+        "email": "support@advancedhosters.com",
+        "source": "https://github.com/advancedhosters/hipanel-theme-adminlte",
+        "issues": "https://github.com/advancedhosters/hipanel-theme-adminlte/issues",
+        "wiki": "https://github.com/advancedhosters/hipanel-theme-adminlte/wiki"
     },
     "authors": [
         {
@@ -26,11 +26,11 @@
     ],
     "require": {
         "hiqdev/hipanel-theme-adminlte": "*@dev",
-        "ahnames/yii2-asset-ahnames": "*@dev"
+        "advancedhosters/yii2-asset-advancedhosters": "*@dev"
     },
     "autoload": {
         "psr-4": {
-            "ahnames\\themes\\adminlte\\": "src"
+            "advancedhosters\\themes\\adminlte\\": "src"
         }
     },
     "extra": {
