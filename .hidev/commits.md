@@ -3,6 +3,8 @@ advancedhosters/hipanel-theme-adminlte commits history
 
 ## Under development
 
+- Fixed css for log
+    - 5541a6d 2015-08-18 fixed css for logo (sol@hiqdev.com)
 - Fixed minor: hideved and php-cs-fixed
     - 0a486b0 2015-08-18 php-cs-fixed (sol@hiqdev.com)
     - 62bba0c 2015-08-18 hideved (sol@hiqdev.com)
