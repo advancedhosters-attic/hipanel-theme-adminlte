@@ -1,0 +1,11 @@
+package:
+    name:           hipanel-theme-adminlte
+    namespace:      advancedhosters\themes\adminlte
+    title:          AdvancedHosters AdminLte Theme for HiPanel
+    type:           yii2-extension
+    keywords:       advancedhosters, adminlte, theme, hipanel, plugin
+    year:           2015
+
+require:
+    advancedhosters/hidev-config:   "*"
+    hiqdev/hidev-config-php:        "*"

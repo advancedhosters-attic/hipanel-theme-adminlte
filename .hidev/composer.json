@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ahnames/hidev-config": "*",
+        "hiqdev/hidev-config-php": "*"
+    }
+}

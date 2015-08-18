@@ -1,0 +1,42 @@
+{
+    "name": "ahnames/hipanel-theme-adminlte",
+    "type": "yii2-extension",
+    "description": "AHnames AdminLte Theme for HiPanel",
+    "keywords": [
+        "ahnames",
+        "adminlte",
+        "theme",
+        "hipanel",
+        "plugin"
+    ],
+    "homepage": "https://github.com/ahnames/hipanel-theme-adminlte",
+    "license": "No license",
+    "support": {
+        "email": "support@ahnames.com",
+        "source": "https://github.com/ahnames/hipanel-theme-adminlte",
+        "issues": "https://github.com/ahnames/hipanel-theme-adminlte/issues",
+        "wiki": "https://github.com/ahnames/hipanel-theme-adminlte/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "hiqdev/hipanel-theme-adminlte": "*@dev",
+        "ahnames/yii2-asset-ahnames": "*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahnames\\themes\\adminlte\\": "src"
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
