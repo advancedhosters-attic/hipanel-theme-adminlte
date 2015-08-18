@@ -9,10 +9,11 @@ $logo = Yii::$app->assetManager->getAssetUrl($asset, 'images/logo.png');
 ?>
 
 .logo-lg {
-    background: url(<?= $logo ?>) 5px 3px no-repeat;
+    background: url(<?= $logo ?>) 5px 4px no-repeat;
 }
 
 .logo-mini {
-    background: url(<?= $logo ?>) 7px 3px no-repeat;
+    background: url(<?= $logo ?>) 2px 6px no-repeat;
+    background-size: 300%;
 }
 
